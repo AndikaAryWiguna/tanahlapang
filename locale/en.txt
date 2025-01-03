@@ -3,18 +3,21 @@
 ## Action
 
 ### URL
-LinkBehaviour_5C67CAC4_4D4B_CF62_41A3_1669233A41AD.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_02D771AB_26CD_AD78_41B0_A4782F282AC7.source = https://360.bnpb.go.id/static-jembrana-jalanpulaujawa
+LinkBehaviour_0264B8DC_26CC_FCD9_41B7_8D01C08AED7C.source = https://360.bnpb.go.id/static-jembrana-sanjayahome
+LinkBehaviour_0221BE6F_26CF_B7F8_41C0_B0636A1F35EF.source = https://360.bnpb.go.id/static-jembrana-tanahlapang
+LinkBehaviour_5C646AC5_4D4B_CF62_41BA_A88D94C932C4.source = https://360.bnpb.go.id/static-jembrana-tanahlapangmotorcross
 LinkBehaviour_C8448D24_8A00_9534_41D6_26124A1A8ACD.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_5C646AC5_4D4B_CF62_41BA_A88D94C932C4.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_5C67CAC4_4D4B_CF62_41A3_1669233A41AD.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_C8460D25_8A00_9534_41DA_5DD9BBD294E2.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_C84C8D52_8A00_956C_41E0_DF571E6B407E.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_4380BC99_4D4D_4BE2_41CB_F4F5B34545D6.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_C84B4D51_8A00_956C_41DF_18DFC5B4CDC4.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_C84C8D52_8A00_956C_41E0_DF571E6B407E.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_43804C98_4D4D_4BE2_41BE_DAC474625A2F.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_4380DC9A_4D4D_4BE6_41BB_893275E615DA.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_C84B4D51_8A00_956C_41DF_18DFC5B4CDC4.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_C84CFD52_8A00_956C_41E1_24F225E08DF8.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
-PopupWebFrameBehaviour_A0A657AE_3A86_CB99_41C8_CA2DC6880E4C.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+LinkBehaviour_4380DC9A_4D4D_4BE6_41BB_893275E615DA.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_C85CCD0C_8A00_9AF4_41C5_90F5CC6797DA.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+PopupWebFrameBehaviour_A0A657AE_3A86_CB99_41C8_CA2DC6880E4C.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 PopupWebFrameBehaviour_1B37CD30_0E0B_8952_412E_16291BFFC7C0.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 
 ## Hotspot
@@ -105,12 +108,12 @@ album_7501BB2E_563F_E3B7_41D5_2E75C72AAA1A_0.label = tsunami-saat-ada-peringatan
 album_7501BB2E_563F_E3B7_41D5_2E75C72AAA1A_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_B927153E_A60E_9766_41C6_46E1D3B35C09.url = media/video_74839809_563D_AD7A_41D4_BC23C80DE5CC_en.mp4
-videolevel_B927153E_A60E_9766_41C6_46E1D3B35C09.posterURL = media/video_74839809_563D_AD7A_41D4_BC23C80DE5CC_poster_en.jpg
-videolevel_B92434F9_A60E_96EA_41BC_321EEDAE2C8A.url = media/video_75381F39_563D_639A_41CE_8DF6073C0D41_en.mp4
-videolevel_B92434F9_A60E_96EA_41BC_321EEDAE2C8A.posterURL = media/video_75381F39_563D_639A_41CE_8DF6073C0D41_poster_en.jpg
-videolevel_B9260585_A60E_971A_41E1_6E9F42355867.url = media/video_7A11A69D_6128_B819_4190_604306EF6767_en.mp4
-videolevel_B9260585_A60E_971A_41E1_6E9F42355867.posterURL = media/video_7A11A69D_6128_B819_4190_604306EF6767_poster_en.jpg
+videolevel_02E3BC03_26C5_DB28_41A9_722F0CDA01B7.url = media/video_74839809_563D_AD7A_41D4_BC23C80DE5CC_en.mp4
+videolevel_02E3BC03_26C5_DB28_41A9_722F0CDA01B7.posterURL = media/video_74839809_563D_AD7A_41D4_BC23C80DE5CC_poster_en.jpg
+videolevel_02E2BB98_26C5_DD58_41B7_92743AC5443B.url = media/video_75381F39_563D_639A_41CE_8DF6073C0D41_en.mp4
+videolevel_02E2BB98_26C5_DD58_41B7_92743AC5443B.posterURL = media/video_75381F39_563D_639A_41CE_8DF6073C0D41_poster_en.jpg
+videolevel_02FCAC5A_26C5_DBD9_41A8_A08951950CC4.url = media/video_7A11A69D_6128_B819_4190_604306EF6767_en.mp4
+videolevel_02FCAC5A_26C5_DBD9_41A8_A08951950CC4.posterURL = media/video_7A11A69D_6128_B819_4190_604306EF6767_poster_en.jpg
 
 ### Video Subtitles
 
